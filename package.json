@@ -1,0 +1,36 @@
+{
+  "name": "dusk",
+  "version": "0.1.0",
+  "description": "Dusk is a theme that use HTML, CSS and Javascript to provide a simple GUI toolkit based on the Twilight colorscheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yannissss/Dusk.git"
+  },
+  "keywords": [
+    "theme",
+    "css",
+    "javascript",
+    "gui",
+    "twilight"
+  ],
+  "author": "yondars",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Yannissss/Dusk/issues"
+  },
+  "homepage": "https://github.com/Yannissss/Dusk#readme",
+  "devDependencies": {
+    "sass": "^1.26.11",
+    "sass-loader": "^10.0.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "css-loader": "^4.3.0",
+    "style-loader": "^1.2.1"
+  }
+}
